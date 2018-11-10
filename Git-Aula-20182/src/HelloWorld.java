@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Mudança Eclipse!");
 		
 		System.out.println("Nicolas passou por aqui!");
+		
+		System.out.println("Natanael passou por aqui!");
 	}
 
 }
