@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Mudança Bash [branch master + bash]");
 		
 		System.out.println("Darllao passou aqui");
+		
+		System.out.println("Teste new Branch");
 
 	}
 
