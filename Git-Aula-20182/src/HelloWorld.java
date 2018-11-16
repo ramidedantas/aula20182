@@ -6,8 +6,8 @@ public class HelloWorld {
 
 		System.out.println("Mudança Bash");
 	
-		System.out.println("Mudança Eclipse [branch master]");
-		
+		System.out.println("Mudança Eclipse [branch master + eclipse]");
+	
 	}
 
 }
