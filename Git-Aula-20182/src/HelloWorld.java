@@ -1,4 +1,4 @@
-
+﻿
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -9,6 +9,9 @@ public class HelloWorld {
 		System.out.println("Mudan�a Bash [branch master + bash]");
 		
 		System.out.println("Darllao passou aqui");
+
+
+		int x = 10;
 
 		System.out.println("João Victor esteve aqui");
 
